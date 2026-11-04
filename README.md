@@ -1,0 +1,1 @@
+Exploratory notebooks to determine whether individual MLS salary and market value are consistent with what comparable players (by performance and characteristics) received, using historical data from 2016–2025.
