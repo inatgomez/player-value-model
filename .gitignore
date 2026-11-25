@@ -2,7 +2,9 @@
 .venv/
 
 # Data files
-data/*
+data/raw/*
+data/interim/*
+data/processed/*
 
 # Cache files
 __pycache__/*
